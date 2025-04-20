@@ -17,5 +17,6 @@ Script’te yer alan keyword değişkenini silmek istediğiniz domain ismiyle g�
 keyword = "discord.com"  # Discord geçmişini silmek için
 
 İhtiyacınıza göre farklı kelimelerle (örn. 'facebook.com', 'twitter.com') geçmişi temizleyebilirsiniz.
+
 ⚠️ Uyarı
 Geçmişi silmeden önce, Chrome geçmişinizin bir yedeğini almayı unutmayın. Bu işlem geri alınamaz.

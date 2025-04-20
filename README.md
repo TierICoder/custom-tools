@@ -13,3 +13,5 @@ Bu script Python 3 ile yazılmıştır ve sadece `sqlite3` modülünü kullanır
 
 ```python
 keyword = "discord.com"  # Örneğin Facebook geçmişini silmek için 'facebook.com' yazabilirsiniz.
+⚠️ Uyarı
+Geçmişi silmeden önce, Chrome geçmişinizin bir yedeğini almayı unutmayın. Bu işlem geri alınamaz.

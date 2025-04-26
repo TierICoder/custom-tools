@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -WindowStyle Hidden -File "C:\Scripts\motivation.ps1"
